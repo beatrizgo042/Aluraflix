@@ -1,0 +1,14 @@
+:root {
+    --color-first: #7D1424;
+    --color-second: #EDD834;
+    --color-third: #F24D16;
+    --color-fourth: #4CD4B0;
+    --color-fifth: rgba(0, 0, 0, 0.5);
+    --color-sixth: #000;
+    --color-seventh: #44B39D;
+}
+
+body {
+    background-color: var(--color-fourth);
+    font-family: 'Mate SC', serif;
+}

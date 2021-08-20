@@ -1,0 +1,22 @@
+.labels {
+    display: flex;
+    justify-content: center;
+}
+
+.nome-anime {
+    padding-right: 34px;
+}
+
+.url-img {
+    padding-left: 34px;
+}
+
+.main-label {
+    display: block;
+    font-family: 'Fira Code', monospace;
+    color: var(--color-sixth);
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 9px;
+}

@@ -1,0 +1,11 @@
+.list-banners {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 46px;
+    padding-bottom: 60px;
+}
+
+.list-banners .wrapper-banner {
+    margin: 23px 33px;
+}

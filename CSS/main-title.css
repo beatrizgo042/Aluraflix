@@ -1,0 +1,9 @@
+.main-title {
+    color: var(--color-first);
+    font-size: 79px;
+    text-shadow: 5px 5px 4px var(--color-fifth);    
+    text-align: center;
+    left: 583px;
+    margin-top: 28px;
+    margin-bottom: 35px;
+}

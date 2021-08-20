@@ -1,0 +1,4 @@
+.main-banner {
+    border: 3px solid var(--color-third);
+    box-shadow: 10px 10px 4px var(--color-fifth);
+}
